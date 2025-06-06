@@ -1,0 +1,6 @@
+
+ node path-ejemplo/index.mjs
+Directorio base: ./data
+Nombre del archivo: path
+Extensión del archivo: .txt
+Nueva ruta: \user\docs\newfile.txt
